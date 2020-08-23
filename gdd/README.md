@@ -16,20 +16,22 @@ Influences (Brief)
 - Influence #2
 - Influence #3
 - Influence #4
-The elevator Pitch
-Project Description (Brief):
-Project Description (Detailed)
-What sets this project apart?
+
+##The elevator Pitch</br>
+Project Description (Brief):</br>
+Project Description (Detailed)</br>
+What sets this project apart?</br>
 Core Gameplay Mechanics (Detailed)
 - Core Gameplay Mechanic #1
 - Core Gameplay Mechanic #2
 - Core Gameplay Mechanic #3
-- Core Gameplay Mechanic #4
-Story and Gameplay
-Story (Brief)
-Story (Detailed)
-Gameplay (Brief)
-Gameplay (Detailed)
+- Core Gameplay Mechanic #4</br>
+
+## Story and Gameplay</br>
+Story (Brief)</br>
+Story (Detailed)</br>
+Gameplay (Brief)</br>
+Gameplay (Detailed)</br>
 Assets Needed
 - 2D
 - 3D
@@ -46,35 +48,35 @@ Schedule
 
 ## Overview
 
-### Theme / Setting / Genre
-• Near Future
-• Space
-• Multi-origin Clans
-• Technological Jump due to galactic contact on Mars Colonization 
+### Theme / Setting / Genre</br>
+- Near Future
+- Space
+- Multi-origin Clans
+- Technological Jump due to galactic contact on Mars Colonization 
 
 ### Core Gameplay Mechanics Brief
-• 3D Immersive – 1st/3rd Person 
-• 3D Immersive – 1st Person over shoulder/head (Nexus Module)
-• In Game Games - IGGs
-• Gameplay Mechanic #4
+- 3D Immersive – 1st/3rd Person 
+- 3D Immersive – 1st Person over shoulder/head (Nexus Module)
+- In Game Games - IGGs
+- Gameplay Mechanic 4
 
 ###  Targeted platforms
-• PC (Windows, linux)
-• Mobile (Android & iPhone)
-• All consoles that don’t oblige exclusivity deals
+- PC (Windows, linux)
+- Mobile (Android & iPhone)
+- All consoles that don’t oblige exclusivity deals
 
 ### Monetization model (Brief/Document) 
-• Paid Alpha/Beta Access (Test Pilot Program)
-• Micro-transactions, Premium, Subscription, earnable inGame, etc (on game release).
-• Avoid illegal Botting by offering Automated collection service (pay store & earnable inGame [Events, missions, etc.] to avoid pay to win complaints.)
-• inGame Games – iGGs (Free, Subscription & earnable inGame)
-• Gamer Sponsorship of new game play modules
+- Paid Alpha/Beta Access (Test Pilot Program)
+- Micro-transactions, Premium, Subscription, earnable inGame, etc (on game release).
+- Avoid illegal Botting by offering Automated collection service (pay store & earnable inGame [Events, missions, etc.] to avoid pay to win complaints.)
+- inGame Games – iGGs (Free, Subscription & earnable inGame)
+- Gamer Sponsorship of new game play modules
 
 ## Project Scope 
 
 ### Game Time Scale
-• Cost? (How much will it cost?)
-• Time Scale (1.6 years)
+- Cost? (How much will it cost?)
+- Time Scale (1.6 years)
 
 ### Team Size
 #### Core Team
@@ -93,14 +95,14 @@ Schedule
 
 ### Software & Dev Licenses
 • Game Engine: 
-• GODOT (open source, will donate)
+- GODOT (open source, will donate)
 • 3D modelling: 
-• Blender (open source, will donate)
+- Blender (open source, will donate)
 • Artwork & texture mapping: 
-• Fuse (open source)
+- Fuse (open source)
 • Adobe Creative Cloud
-- 70.00€/m
-• Blender (open source)
+- 70.00€/m</br>
+
 ###  Accountancy & Communication
 • Accountancy Software/online service
 - 50.00€/m
