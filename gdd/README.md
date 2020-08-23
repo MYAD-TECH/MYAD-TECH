@@ -1,4 +1,6 @@
 # Myriad: Origins (MyO)
+<img src="https://cdn.discordapp.com/attachments/507454734139916288/744862365526523974/MyriadOrigins-logo-500x197.png" 
+alt="MyO Logo" border="1" />
 ### (NEXUS & VOID GAME TYPE MODULES)
 
 Game Development Document
