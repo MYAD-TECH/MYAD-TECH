@@ -5,19 +5,19 @@ Game Development Document
 Revision: 0.0.1
 
 
-## Overview
-Theme / Setting / Genre
-Core Gameplay Mechanics Brief
-Targeted platforms
-Monetization model (Brief/Document)
-Project Scope
+## Overview</br>
+Theme / Setting / Genre</br>
+Core Gameplay Mechanics Brief</br>
+Targeted platforms</br>
+Monetization model (Brief/Document)</br>
+Project Scope</br></br>
 Influences (Brief)
 - Influence #1
 - Influence #2
 - Influence #3
 - Influence #4
 
-##The elevator Pitch</br>
+The elevator Pitch</br>
 Project Description (Brief):</br>
 Project Description (Detailed)</br>
 What sets this project apart?</br>
@@ -169,34 +169,35 @@ One Time Total 9000.00
 
 ## Influences (Brief)
 ### Influence 1
-• Games: DarkOrbit Reloaded
-• The game play, the fact that it is a game without end & that each player is able to play in their own way within the limits of the game world.
+• Games: DarkOrbit Reloaded</br>
+- The game play, the fact that it is a game without end & that each player is able to play in their own way within the limits of the game world.
 ###  Influence 2
-• Television & Film: StarTrek 
-• The sheer vastness of the story, technological imagination & design style (Next Generation onwards) make this classic a must be in influence sources.
+• Television & Film: StarTrek</br>
+- The sheer vastness of the story, technological imagination & design style (Next Generation onwards) make this classic a must be in influence sources.
 ###  Influence 3
-• Television & Film: (Battlestar) Galactica
-• The evolution from the original 1978 TV series has been amazing. The capability to evolve ideas & the design style of the 2003 TV series is a huge influence.
+• Television & Film: (Battlestar) Galactica</br>
+- The evolution from the original 1978 TV series has been amazing. The capability to evolve ideas & the design style of the 2003 TV series is a huge influence.
 ### Influence 4
-• Literature: Dune
-• Epic scale & extremely well defined & believable characters.
+• Literature: Dune</br>
+- Epic scale & extremely well defined & believable characters.
 
 ## The elevator Pitch
 ### Myriad in name, Myriad inGame. 
-• This games’ main aim is to give a total gaming experience by providing all types of Gameplay with different Game Type Modules (GTMs) in one game within a commonly themed universe, a Scoreboard for each GTM and an overall Game scoreboard (Top). This will allow Gamers to become proficient in the GTMs of their choice or in all of them. Gamers now look to escape “enslaving” Gameplay, and we want to help them do that!
+This games’ main aim is to give a total gaming experience by providing all types of Gameplay with different Game Type Modules (GTMs) in one game within a commonly themed universe, a Scoreboard for each GTM and an overall Game scoreboard (Top). This will allow Gamers to become proficient in the GTMs of their choice or in all of them. Gamers now look to escape “enslaving” Gameplay, and we want to help them do that!
 
 ###  We also want to want to offer other day to day online services through our application:
-• Learning
-• Creating
-• Shopping 
-• Banking
-• Trading
+• Learning</br>
+• Creating</br>
+• Shopping</br>
+• Banking</br>
+• Trading</br>
 
 
-## Project Description (Brief):
+### Project Description (Brief):
 - Two Paragraphs at least. 
 - No more than three paragraphs
-## Project Description (Detailed)
+
+### Project Description (Detailed)
 - Four Paragraphs or more If needs be
 - No more than six paragraphs
 
