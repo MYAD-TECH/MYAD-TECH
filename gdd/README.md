@@ -11,7 +11,7 @@ Revision: 0.0.1
 [Targeted platforms](https://github.com/MYAD-TECH/MYAD-TECH/blob/master/gdd/README.md#targeted-platforms)</br>
 [Monetization model (Brief/Document)](https://github.com/MYAD-TECH/MYAD-TECH/blob/master/gdd/README.md#monetization-model-briefdocument)</br>
 [Project Scope](https://github.com/MYAD-TECH/MYAD-TECH/blob/master/gdd/README.md#project-scope)</br></br>
-[Influences (Brief)](https://github.com/MYAD-TECH/MYAD-TECH/blob/master/gdd/README.md#influences-brief)
+[Influences (Brief)](https://github.com/MYAD-TECH/MYAD-TECH/blob/master/gdd/README.md#influences-brief)</br>
 [The elevator Pitch](https://github.com/MYAD-TECH/MYAD-TECH/blob/master/gdd/README.md#the-elevator-pitch)</br>
 [Project Description (Brief)](https://github.com/MYAD-TECH/MYAD-TECH/blob/master/gdd/README.md#project-description-brief)</br>
 [Project Description (Detailed)](https://github.com/MYAD-TECH/MYAD-TECH/blob/master/gdd/README.md#project-description-detailed)</br>
