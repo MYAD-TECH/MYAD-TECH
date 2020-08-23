@@ -5,7 +5,7 @@ Game Development Document
 Revision: 0.0.1
 
 
-## Overview</br>
+Overview</br>
 Theme / Setting / Genre</br>
 Core Gameplay Mechanics Brief</br>
 Targeted platforms</br>
