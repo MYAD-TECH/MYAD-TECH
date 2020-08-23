@@ -5,44 +5,21 @@ Game Development Document
 Revision: 0.0.1
 
 
-Overview</br>
-Theme / Setting / Genre</br>
-Core Gameplay Mechanics Brief</br>
-Targeted platforms</br>
-Monetization model (Brief/Document)</br>
-Project Scope</br></br>
-Influences (Brief)
-- Influence #1
-- Influence #2
-- Influence #3
-- Influence #4
-
-The elevator Pitch</br>
-Project Description (Brief):</br>
-Project Description (Detailed)</br>
-What sets this project apart?</br>
-Core Gameplay Mechanics (Detailed)
-- Core Gameplay Mechanic #1
-- Core Gameplay Mechanic #2
-- Core Gameplay Mechanic #3
-- Core Gameplay Mechanic #4</br>
-
-## Story and Gameplay</br>
-Story (Brief)</br>
-Story (Detailed)</br>
-Gameplay (Brief)</br>
-Gameplay (Detailed)</br>
-Assets Needed
-- 2D
-- 3D
-- Sound
-- Code
-- Animation
-Schedule
-- Objective #1
-- Objective #2
-- Objective #3
-- Objective #4
+[Overview](https://github.com/MYAD-TECH/MYAD-TECH/blob/master/gdd/README.md#overview)</br>
+[Theme / Setting / Genre](https://github.com/MYAD-TECH/MYAD-TECH/blob/master/gdd/README.md#theme--setting--genre)</br>
+[Core Gameplay Mechanics Brief](https://github.com/MYAD-TECH/MYAD-TECH/blob/master/gdd/README.md#core-gameplay-mechanics-brief)</br>
+[Targeted platforms](https://github.com/MYAD-TECH/MYAD-TECH/blob/master/gdd/README.md#targeted-platforms)</br>
+[Monetization model (Brief/Document)](https://github.com/MYAD-TECH/MYAD-TECH/blob/master/gdd/README.md#monetization-model-briefdocument)</br>
+[Project Scope](https://github.com/MYAD-TECH/MYAD-TECH/blob/master/gdd/README.md#project-scope)</br></br>
+[Influences (Brief)](https://github.com/MYAD-TECH/MYAD-TECH/blob/master/gdd/README.md#influences-brief)
+[The elevator Pitch](https://github.com/MYAD-TECH/MYAD-TECH/blob/master/gdd/README.md#the-elevator-pitch)</br>
+[Project Description (Brief)](https://github.com/MYAD-TECH/MYAD-TECH/blob/master/gdd/README.md#project-description-brief)</br>
+[Project Description (Detailed)](https://github.com/MYAD-TECH/MYAD-TECH/blob/master/gdd/README.md#project-description-detailed)</br>
+[What sets this project apart?](https://github.com/MYAD-TECH/MYAD-TECH/blob/master/gdd/README.md#what-sets-this-project-apart)</br>
+[Core Gameplay Mechanics (Detailed)](https://github.com/MYAD-TECH/MYAD-TECH/blob/master/gdd/README.md#core-gameplay-mechanics-detailed)</br>
+[Story and Gameplay](https://github.com/MYAD-TECH/MYAD-TECH/blob/master/gdd/README.md#story-and-gameplay-1)</br>
+[Assets](https://github.com/MYAD-TECH/MYAD-TECH/blob/master/gdd/README.md#assets)</br>
+[Schedule](https://github.com/MYAD-TECH/MYAD-TECH/blob/master/gdd/README.md#schedule)</br>
 
 
 
@@ -295,7 +272,7 @@ This games’ main aim is to give a total gaming experience by providing all typ
 - Detailed Text
 - Combine this with the game mechanics section above
 
-## Assets Needed
+## Assets
 
 ### 3D
 • Characters List
